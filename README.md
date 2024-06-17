@@ -1,0 +1,2 @@
+# Linkedlist
+Odin - LinkedList CS
